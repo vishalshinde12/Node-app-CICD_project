@@ -92,6 +92,8 @@ Server_ip, Repo_URL, Branch, Remote_user
 
 #### Step 9 : Using public Ip of the Target server access the apoplication on internet
 
+![](ss10.png)
+
 
 
 
